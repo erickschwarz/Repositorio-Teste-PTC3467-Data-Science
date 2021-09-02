@@ -9,4 +9,4 @@ O arquivo consumo-mensal-utilidades.csv contém dados fictícios referentes ao c
 - Consumo normalizado gás natural (consumo total daquele mês divido pela produção em toneladas)
 - Consumo normalizado energia elétrica (consumo total daquele mês divido pela produção em toneladas)
 
-Atenção: os dados vinculados aqui são fictícios e tem como único propósito servir para ilustrar a primeira lista de exercícios da disciplina. 
+Atenção: os dados vinculados aqui são fictícios e tem como único propósito ilustrar os exercícios da disciplina. 
